@@ -1,0 +1,5 @@
+- 👋 Hi World
+- 👀 Exploring techs
+- 🌱 Known to C#, JavaScript, .NET, Node.js, TypeScript, .NET Core, SQL
+- 📫 Checkout my other account [@ZakiMohammed](https://github.com/ZakiMohammed)
+- :yellow_heart: Also checkout CodeOmelet for some cool stuff [CodeOmelet](https://codeomelet.com/)
